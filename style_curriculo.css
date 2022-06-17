@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(242, 242, 242);
+    min-height: 100vh;
+}
+
+
+.media-content{
+    line-height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card-content{
+    margin-bottom: 20px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.fa-solid{
+    font-size: 50px;
+    margin-right: 30px;
+}
+
+.tag{
+    margin-bottom: 20px;
+}
+
+.links{
+    display: flex;
+    font-size: 30px;
+    gap: 20px;
+}
+
+.image{
+    border-radius: 30px;
+}
+
+.card-header-title{
+    font-size: 22px;
+}
